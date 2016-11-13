@@ -1,0 +1,10 @@
+textarea, plagiarize {
+    width: 100%;
+    border: 1px thin #333333;
+    padding: 10px;
+}
+
+h1 {
+    border: 1px thin #333333;
+    margin-bottom: 20px;
+}
